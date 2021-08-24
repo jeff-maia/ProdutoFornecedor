@@ -1,0 +1,5 @@
+D:\Users\jefferson.maia\Documents\Visual Studio 2015\Projects\ProjetoBase\ProjetoBase.Domain\bin\Debug\ProjetoBase.Domain.dll
+D:\Users\jefferson.maia\Documents\Visual Studio 2015\Projects\ProjetoBase\ProjetoBase.Domain\bin\Debug\ProjetoBase.Domain.pdb
+D:\Users\jefferson.maia\Documents\Visual Studio 2015\Projects\ProjetoBase\ProjetoBase.Domain\obj\Debug\ProjetoBase.Domain.csprojResolveAssemblyReference.cache
+D:\Users\jefferson.maia\Documents\Visual Studio 2015\Projects\ProjetoBase\ProjetoBase.Domain\obj\Debug\ProjetoBase.Domain.dll
+D:\Users\jefferson.maia\Documents\Visual Studio 2015\Projects\ProjetoBase\ProjetoBase.Domain\obj\Debug\ProjetoBase.Domain.pdb
